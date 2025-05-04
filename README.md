@@ -1,4 +1,4 @@
-NPL - Exploración de Temas en Noticias de la Bolsa a través de NLP
+Exploración de Temas en Noticias de la Bolsa a través de NLP
 
 El dataset utilizado en este trabajo, consiste en el análisis de un conjunto de noticias relacionadas con la bolsa de valores.
 
