@@ -8,4 +8,6 @@ Para ello, se aplicara diversas tareas de NLP, incluyendo la tokenización, la e
 Se incluira una visualización de las palabras más frecuentes a través de un wordcloud. Este análisis inicial busca sentar las bases para una comprensión más profunda del contenido de las noticias.
 
 Elegi este Dataset ya que este tipo de noticias suele contener una mezcla de lenguaje formal e informal, referencias a entidades específicas (empresas, mercados, personas clave), y términos técnicos económicos, lo que lo convierte en un buen coso de estudio para aplicar diversas técnicas de NLP.
+
+
 Este Dataset fue obtenido de: https://www.kaggle.com/datasets/kevinmorgado/spanish-news-classification/data
