@@ -8,9 +8,10 @@ Para ello, se aplicara diversas tareas de NLP, incluyendo la tokenización, la e
 
 Se incluira una visualización de las palabras más frecuentes a través de un wordcloud. Este análisis inicial busca sentar las bases para una comprensión más profunda del contenido de las noticias.
 
-En una segunda etapa, se explorare el uso de modelos de Deep Learning, específicamente redes neuronales, para la tarea de clasificación de los tipos de noticias presentes en el dataset. El objetivo final es comprender mejor la estructura y el contenido de estas noticias mediante el uso de estas técnicas de ciencia de datos.
 
 Elegi este Dataset ya que este tipo de noticias suele contener una mezcla de lenguaje formal e informal, referencias a entidades específicas (empresas, mercados, personas clave), y términos técnicos económicos, lo que lo convierte en un buen coso de estudio para aplicar diversas técnicas de NLP.
+
+En una segunda etapa, se explorare el uso de modelos de Deep Learning, específicamente redes neuronales, para la tarea de clasificación de los tipos de noticias presentes en el dataset. El objetivo final es comprender mejor la estructura y el contenido de estas noticias mediante el uso de estas técnicas de ciencia de datos.
 
 
 Este Dataset fue obtenido de: https://www.kaggle.com/datasets/kevinmorgado/spanish-news-classification/data
